@@ -5,12 +5,12 @@ SASI
 1. Clone o repositório:
     ```bash
     git clone --single-branch --branch develop https://github.com/sasi-team/sasi-api.git 
-    cd sasi
+    cd sasi-api
     ```
 2. Crie e ative um ambiente virtual:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # No Windows use `venv\\Scripts\\activate`
     ```
 3. Instale as dependências:
     ```bash
